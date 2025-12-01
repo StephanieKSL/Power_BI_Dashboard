@@ -5,8 +5,6 @@
 [View interactive dashboard here on Power BI](https://app.powerbi.com/groups/me/reports/29f021f0-97bc-44d3-96c1-99974beec32c?ctid=6f0bb72f-5377-4ddf-936a-b6c72bf21ae2&pbi_source=linkShare)
 
 ## Introduction
-
-
 This dashboard was created for **Job Seekers, Job Transitioners, and Job Swappers** to solve a common problem: information about the data job market is scattered and hard to grasp. Using a *real-world dataset of 2024 data science job postings* (including titles, salaries, and locations), this project provides a single, easy-to-use interface to explore market trends and compensation.
 
 ## Skills Shoucased
@@ -19,7 +17,7 @@ Cleaned, shaped, and prepared the raw data for analysis by handling blanks, chan
 Formulated measures to derive key insights and KPIs like Median Yearly Salary and Job Count.
 
 - **📈 Core Charts :**
-Utilized Column, Bar, Line, and Area Charts to compare job counts and track trends over time.
+**Utilized Column, Bar, Line, and Area Charts** to compare job counts and track trends over time.
 
 - **🗺️ Geospatial Analysis :**
 Leveraged **Map Charts** to visualize the global distribution of jobs.
